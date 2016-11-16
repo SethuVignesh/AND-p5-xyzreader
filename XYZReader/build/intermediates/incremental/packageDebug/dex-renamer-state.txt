@@ -1,0 +1,7 @@
+#Wed Nov 16 16:45:48 IST 2016
+base.0=/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e077836e5311025c2963928e0b3a29372bd386ba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16f8f1a3eb31e79a8b0632280271a0248bd3bb4d/classes.dex
+base.1=/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16f8f1a3eb31e79a8b0632280271a0248bd3bb4d
+file.0=/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e077836e5311025c2963928e0b3a29372bd386ba/classes.dex
