@@ -84,6 +84,10 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi/ic_comment_24dp.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/generated/res/pngs/debug/drawable-hdpi/ic_comment_24dp.png"
+    },
+    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },

@@ -16,6 +16,10 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/material_flat.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/src/main/res/drawable/material_flat.png"
+    },
+    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
     },
@@ -40,12 +44,12 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/src/main/res/drawable/photo_background_protection.xml"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/src/main/res/drawable/padded_divider.xml"
+    },
+    {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",

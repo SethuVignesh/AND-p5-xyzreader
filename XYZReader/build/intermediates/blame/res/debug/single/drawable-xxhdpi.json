@@ -152,6 +152,10 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_comment_24dp.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/generated/res/pngs/debug/drawable-xxhdpi/ic_comment_24dp.png"
+    },
+    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
     },

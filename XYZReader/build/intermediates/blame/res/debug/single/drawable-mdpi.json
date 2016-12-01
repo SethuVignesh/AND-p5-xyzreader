@@ -20,12 +20,12 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png",
@@ -100,6 +100,10 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/ic_comment_24dp.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/generated/res/pngs/debug/drawable-mdpi/ic_comment_24dp.png"
+    },
+    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -112,12 +116,12 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_pressed_holo_light.9.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png",

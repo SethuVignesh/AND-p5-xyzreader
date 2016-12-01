@@ -28,6 +28,10 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_comment_24dp.png",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_comment_24dp.png"
+    },
+    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
