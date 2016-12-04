@@ -36,16 +36,16 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_snackbar.xml"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_menu.xml"
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_simple_dropdown_hint.xml"
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
@@ -90,10 +90,6 @@
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list2.xml",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/src/main/res/layout/activity_article_list2.xml"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -164,12 +160,12 @@
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",

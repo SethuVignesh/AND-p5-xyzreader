@@ -1,37 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="19"
-    density="xhdpi"
+    abi="x86"
+    api-level="23"
+    density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="15986783437108"
+    timestamp="30613395422741"
     token="-4307860224157604171"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="717" />
+        duration="1842" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="25" />
     <task
         name="verifier"
-        duration="1" />
+        duration="3" />
 
     <artifact
-        location="/Users/sethu/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="15986783437108"
-        verifier="R_CLASS_CHANGE" >
+        timestamp="25771331947050"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/sethu/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="30613395422741"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/sethu/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
